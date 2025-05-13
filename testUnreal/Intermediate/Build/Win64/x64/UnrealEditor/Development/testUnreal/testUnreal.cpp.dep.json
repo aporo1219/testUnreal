@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ga2a\\desktop\\teamprojecttest\\testunreal\\source\\testunreal\\testunreal.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ga2a\\desktop\\teamprojecttest\\testunreal\\intermediate\\build\\win64\\x64\\testunrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ga2a\\desktop\\teamprojecttest\\testunreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testunreal\\definitions.testunreal.h",
+            "c:\\users\\ga2a\\desktop\\teamprojecttest\\testunreal\\source\\testunreal\\testunreal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

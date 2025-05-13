@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-testUnreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\GA2A\Desktop\TeamProjectTest\testUnreal\Intermediate\Build\Win64\x64\testUnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\GA2A\Desktop\TeamProjectTest\testUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\testUnreal\testUnreal.cpp.obj"
+"C:\Users\GA2A\Desktop\TeamProjectTest\testUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\testUnreal\PerModuleInline.gen.cpp.obj"
+"C:\Users\GA2A\Desktop\TeamProjectTest\testUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\testUnreal\Default.rc2.res"
+/OUT:"C:\Users\GA2A\Desktop\TeamProjectTest\testUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\testUnreal\UnrealEditor-testUnreal.lib"

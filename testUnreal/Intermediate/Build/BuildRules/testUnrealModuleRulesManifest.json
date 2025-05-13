@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\GA2A\\Desktop\\TeamProjectTest\\testUnreal\\Source\\testUnreal\\testUnreal.Build.cs",
+		"C:\\Users\\GA2A\\Desktop\\TeamProjectTest\\testUnreal\\Source\\testUnreal.Target.cs",
+		"C:\\Users\\GA2A\\Desktop\\TeamProjectTest\\testUnreal\\Source\\testUnrealEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
